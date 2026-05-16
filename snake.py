@@ -9,9 +9,9 @@ pygame.init()
 WHITE = (255, 255, 255)
 YELLOW = (255, 255, 102)
 BLACK = (0, 0, 0)
-RED = (213, 50, 80)
+RED = (213, 51, 81)
 GREEN = (0, 255, 0)
-BLUE = (50, 153, 213)
+BLUE = (51, 153, 213)
 
 # Screen Dimensions
 WIDTH = 800
